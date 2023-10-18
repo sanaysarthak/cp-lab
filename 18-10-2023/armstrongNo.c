@@ -2,6 +2,8 @@
 // Sample Input Data : 153, 370, 371, 1634, 9474
 
 #include <stdio.h>
+// Include math.h header file, in case the program throws an error while execution
+#include <math.h>
 int main() 
 {
     int N, sum, d, p=0;
