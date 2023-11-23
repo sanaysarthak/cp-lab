@@ -12,4 +12,5 @@ int sum()
     int a=10, b=20, c=0;
     c= a+b;
     printf("%d", c);
+    return 0;
 }
