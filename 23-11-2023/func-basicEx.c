@@ -1,4 +1,4 @@
-// Simple program in C to demonstrating the use of functions
+// Simple program in C demonstrating the use of functions
 
 int sum()
 {
@@ -10,4 +10,5 @@ int sum()
 int main()
 {
     sum();
+    return 0;
 }
