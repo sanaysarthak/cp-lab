@@ -1,5 +1,6 @@
 // Program in C to showcase call-by reference using a simple swap function
 
+#include <stdio.h>
 void swap(int *a, int *b)
 {
     int temp;
