@@ -4,7 +4,7 @@ and array elements will also be provided by the user)
 */
 
 #include <stdio.h>
-int main(int argc, char *argv[])
+int main()
 {
 	
 	int p, n;
